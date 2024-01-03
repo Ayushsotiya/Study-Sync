@@ -359,7 +359,7 @@ body{
 
 
 
-
+/* feature section */
 .feature-container{
     background-color: var(--light-gray);
     padding: 2.5rem 0;
@@ -466,6 +466,12 @@ body{
     }
 }
 
+
+
+
+
+
+/* testimonial section */
 .testimonial-container{
     background-color: var(--background-color);
     padding: 2rem;
